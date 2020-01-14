@@ -1,5 +1,5 @@
 # Book_Store
-code for Book Store using (old C++) .
+code for Book Store using (C++) .
 
 Book store management program 
 
